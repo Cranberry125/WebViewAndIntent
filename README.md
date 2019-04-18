@@ -71,6 +71,7 @@ activity_main.java
 
 
 # 运行截图：
+![4655BFF4BE080BFDCD60C6F143B13606.jpg](https://i.loli.net/2019/04/18/5cb897fbe9185.jpg)
 ![579BD9513A36AC5DF62130AC4A934D37.jpg](https://i.loli.net/2019/04/18/5cb8980013d97.jpg)
 ![BF787D52E48D95F81316C8B832082035.jpg](https://i.loli.net/2019/04/18/5cb89802efb1c.jpg)
-![4655BFF4BE080BFDCD60C6F143B13606.jpg](https://i.loli.net/2019/04/18/5cb897fbe9185.jpg)
+
